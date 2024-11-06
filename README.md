@@ -1,6 +1,6 @@
 Here's a sample `README.md` file that you can use for your project:
 
-```markdown
+
 # React Color Palette Generator
 
 This is a React-based application that allows users to generate color palettes, lock colors, like/dislike colors, and perform other actions like copying color codes and downloading files. The app uses `react-router-dom`, `react-toastify`, `@tanstack/react-query`, and other libraries to enhance functionality and provide an interactive user experience.
