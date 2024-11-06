@@ -102,9 +102,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 - [Ant Design](https://ant.design/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
-
-### Customizations:
-- Replace `<repository-url>` with the actual URL of your repository.
-- If you have additional sections or features, you can expand this README file.
-
-This `README` provides all necessary setup instructions, technologies used, and a brief overview of how to interact with your app.
