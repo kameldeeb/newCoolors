@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "color": "#ca3bcc",
+    "state": false,
+    "type": "hex",
+    "like": false
+  },
+  {
+    "id": 1,
+    "color": "#2ff3f8",
+    "state": false,
+    "type": "hex",
+    "like": false
+  },
+  {
+    "id": 2,
+    "color": "#ee4094",
+    "state": false,
+    "type": "hex",
+    "like": false
+  },
+  {
+    "id": 3,
+    "color": "#56ef70",
+    "state": false,
+    "type": "hex",
+    "like": false
+  },
+  {
+    "id": 4,
+    "color": "#6a4cb0",
+    "state": false,
+    "type": "hex",
+    "like": false
+  }
+]
