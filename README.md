@@ -101,7 +101,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 - [React Toastify](https://fkhadra.github.io/react-toastify/)
 - [Ant Design](https://ant.design/)
 - [React Icons](https://react-icons.github.io/react-icons/)
-```
+
 
 ### Customizations:
 - Replace `<repository-url>` with the actual URL of your repository.
